@@ -77,17 +77,14 @@ Sou * técnica de desenvolvimento de sistema* e *desenvolvedora de software*. Es
   <a href="https://www.linkedin.com/in/nataly-souza-40aaa3246/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-<a href="mailto:nataly.jessica.r.souza@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+  <a href="mailto:nataly.jessica.r.souza@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=Profile%20views&color=8B5CF6&style=flat" alt="Profile views" />
-</div>
 
 <div align="center">
   

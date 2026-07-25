@@ -66,9 +66,8 @@ Sou *Desenvolvedora Fullstack* na [VertEcotech](https://vertecotech.io) 🌱, co
 ---
 
 ## 🐍 *Contribuições*
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NatalyJessica/NatalyJessica/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/NatalyJessica/NatalyJessica/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---

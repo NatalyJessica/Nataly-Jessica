@@ -1,14 +1,14 @@
 # 💜 Olá, meu nome é *Nataly Jéssica*!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8B5CF6&size=35&center=true&vCenter=true&width=1000&lines=Bem-vinda+ao+meu+perfil!;Desenvolvedora+Fullstack+na+VertEcotech;Django+%7C+React+%7C+React+Native;Sempre+aprendendo+e+evoluindo!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8B5CF6&size=35&center=true&vCenter=true&width=1000&lines=Bem-vinda+ao+meu+perfil!;Desenvolvedora+Fullstack;Django+%7C+React+%7C+React+Native;Sempre+aprendendo+e+evoluindo!" />
 </div>
 
 ---
 
 ## 🚀 *Sobre mim*
 
-Sou *Desenvolvedora Fullstack* na [VertEcotech](https://vertecotech.io) 🌱, construindo aplicações web e mobile de ponta a ponta voltadas ao monitoramento ambiental. *Técnica em Desenvolvimento de Sistemas* pelo COTUCA (Colégio Técnico de Campinas) e cursando *Gestão da Tecnologia da Informação (GTI)* na PUC-Campinas. Estou sempre buscando aprender e evoluir, contribuindo para soluções tecnológicas inovadoras e sustentáveis.
+Sou *Desenvolvedora Fullstack* na [VertEcotech](https://vertecotech.io) 🌱, construindo aplicações web e mobile de ponta a ponta. *Técnica em Desenvolvimento de Sistemas* pelo COTUCA (Colégio Técnico de Campinas) e cursando *Gestão da Tecnologia da Informação (GTI)* na PUC-Campinas. Estou sempre buscando aprender e evoluir, contribuindo para soluções tecnológicas inovadoras e sustentáveis.
 
 ---
 
@@ -38,13 +38,11 @@ Sou *Desenvolvedora Fullstack* na [VertEcotech](https://vertecotech.io) 🌱, co
 ### *Mobile*
 <div style="display: inline_block">
   <img align="center" alt="React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
 
 ### *Banco de Dados*
 <div style="display: inline_block">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ### *Ferramentas*

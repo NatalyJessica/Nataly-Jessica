@@ -8,7 +8,7 @@
 
 ## 🚀 *Sobre mim*
 
-Sou *Desenvolvedora Fullstack* na [VertEcotech](https://vertecotech.io) 🌱, construindo aplicações web e mobile de ponta a ponta. *Técnica em Desenvolvimento de Sistemas* pelo COTUCA (Colégio Técnico de Campinas) e cursando *Gestão da Tecnologia da Informação (GTI)* na PUC-Campinas. Estou sempre buscando aprender e evoluir, contribuindo para soluções tecnológicas inovadoras e sustentáveis.
+Sou *Desenvolvedora Fullstack* na VertEcotech 🌱, construindo aplicações web e mobile de ponta a ponta. *Técnica em Desenvolvimento de Sistemas* pelo COTUCA (Colégio Técnico de Campinas) e cursando *Gestão da Tecnologia da Informação (GTI)* na PUC-Campinas. Estou sempre buscando aprender e evoluir, contribuindo para soluções tecnológicas inovadoras e sustentáveis.
 
 ---
 
